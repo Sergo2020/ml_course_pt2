@@ -1,0 +1,1001 @@
+Student_Name,Study_Method,Test_Score
+John Harrington,Group Study,74
+Terri Owens,Tutoring,71
+Heidi Williams,ChatGPT,91
+Jordan Oconnor,Group Study,70
+Michael Griffith,ChatGPT,74
+Megan Sullivan,Group Study,69
+Regina Stark,Self-Study,91
+Sergio Ross,Tutoring,83
+Kevin James,ChatGPT,71
+Joseph Molina,ChatGPT,88
+Charles Soto,Group Study,68
+Suzanne Holland,Self-Study,70
+Garrett Johnson,ChatGPT,84
+Melissa Morris,ChatGPT,100
+Caleb Goodman,Self-Study,65
+Scott Smith,Tutoring,84
+Mrs. Stephanie Burgess,ChatGPT,66
+Brandon Flynn,Self-Study,68
+Alexandria Suarez,Group Study,79
+Natalie Stout,Tutoring,55
+Kelly Barnes DDS,Group Study,77
+Louis Peck,Tutoring,89
+James Ortega,Group Study,72
+Marvin Foley,Tutoring,80
+Ashlee Morales,Self-Study,66
+Lisa Kim,Group Study,77
+Cameron Skinner,ChatGPT,81
+Felicia Russo,Self-Study,65
+Samantha Davis,Group Study,73
+Ryan Ward,Self-Study,76
+Gary Brooks,Tutoring,79
+Christopher Shannon,Tutoring,63
+Stephanie Chaney,Group Study,70
+Jacob Herrera,Tutoring,85
+Joshua Jordan,Self-Study,71
+Linda Johnson,ChatGPT,63
+Barbara Russell,Group Study,89
+Anthony Johnson,ChatGPT,70
+Louis Taylor MD,Group Study,65
+Lauren Velasquez,Tutoring,82
+Adam Palmer,Group Study,93
+Jacob Miller,Tutoring,69
+Justin Mcdonald,Tutoring,73
+Amy Edwards,ChatGPT,64
+Stacy Franklin,Self-Study,60
+Erica Humphrey,Group Study,84
+Christine Cortez,Group Study,78
+Micheal Anderson,Group Study,76
+Justin Waters,Tutoring,60
+Brian Foster,Self-Study,78
+Joseph Ortiz,Self-Study,99
+Amy Lynch,Group Study,82
+Andrew Moore,ChatGPT,76
+Margaret Lucero,Tutoring,70
+Charles Reyes,ChatGPT,91
+Laurie Leach,Tutoring,77
+Candace Reed,Tutoring,61
+Michael Phelps,Self-Study,72
+Laura Hughes,Self-Study,85
+John Norman,Tutoring,71
+Gordon Abbott,ChatGPT,74
+Brian Pierce,Group Study,84
+Christopher French,Tutoring,84
+Diane Mueller,Group Study,79
+Diane Lopez,Tutoring,77
+Scott Haynes,ChatGPT,71
+Sara Velasquez,ChatGPT,61
+Christopher Barton,Tutoring,74
+Christopher Pittman,Tutoring,79
+Jacob Macias,Self-Study,91
+Susan Miller,Self-Study,67
+Duane Montgomery,Group Study,74
+Melanie Lee,Group Study,76
+Brittany Scott DVM,ChatGPT,70
+Erin Brewer,Self-Study,80
+Mercedes York,ChatGPT,82
+William Schneider,Group Study,75
+Jillian Jordan,Tutoring,87
+Janet Lamb,Group Study,87
+Robert Jones,Tutoring,66
+David Smith,Tutoring,67
+Zachary Johnson,Tutoring,77
+Melissa Robinson,ChatGPT,85
+Anthony Vang,Tutoring,81
+Christopher Simon,ChatGPT,86
+Jill Wise,Tutoring,77
+Amy Romero,ChatGPT,78
+Luke Galvan,Group Study,81
+Melinda Fernandez,ChatGPT,78
+Lauren Lara,Self-Study,67
+Peter Hart,Group Study,72
+Annette Dennis,ChatGPT,79
+John Melendez,Self-Study,80
+Cynthia Coleman,Self-Study,60
+Nathaniel Guzman,ChatGPT,80
+Leah Brown,Tutoring,88
+Brett Marsh,Group Study,55
+Adrienne Walsh,Self-Study,62
+Sarah Hart,Tutoring,83
+Dr. Lisa Morgan,ChatGPT,59
+Bradley Gomez,Self-Study,83
+Kiara Burns,ChatGPT,70
+Jason Phelps,Self-Study,71
+Brenda Weiss,ChatGPT,94
+Nathaniel Mcdonald,Tutoring,76
+Courtney Gray,ChatGPT,56
+Cameron Sanders,ChatGPT,76
+John Barrett,Group Study,92
+Edward Evans,ChatGPT,74
+Sharon Lynch,ChatGPT,74
+Kristine Burton,ChatGPT,88
+Stacy Harper,Group Study,59
+Darryl Burns,Group Study,55
+Amy Heath,ChatGPT,77
+Vanessa Wilson,Self-Study,86
+Javier Velasquez,Tutoring,65
+Lori Rios,Tutoring,71
+Katie Guerrero,Group Study,80
+Sarah Vasquez,Self-Study,81
+Alexandra Bernard,Group Study,77
+Tiffany Mercer,Tutoring,77
+Amanda Robinson,Tutoring,77
+Emma Hood,Group Study,68
+Tiffany Green,Tutoring,55
+Stacy Goodman,Group Study,74
+Justin Thomas,Self-Study,71
+Sabrina Hunt,Self-Study,85
+Elizabeth Collins,Tutoring,93
+Michael Parrish,Self-Study,69
+Maria White,Self-Study,73
+Raymond Edwards,Tutoring,72
+Sara Mitchell,Group Study,66
+Hannah Harris,Group Study,55
+Kathleen Russell,ChatGPT,82
+Matthew Richardson,ChatGPT,72
+Brendan Wilson,ChatGPT,85
+Nathan Lane,Self-Study,84
+Jose Valenzuela,Self-Study,60
+Tyler Beck,ChatGPT,76
+Leslie Weber,Group Study,85
+Miguel Young,Tutoring,82
+Susan Williams,Tutoring,82
+Nicole Bentley,Group Study,74
+Thomas Collins,Tutoring,89
+Stephanie Jones,ChatGPT,74
+Larry Jones,Tutoring,72
+Brandon Mcclain,Group Study,57
+Adam Ross,Self-Study,55
+Veronica Roth,Self-Study,60
+Mrs. Tiffany Stanton DDS,Tutoring,78
+Ms. Aimee Murphy DDS,Group Study,65
+Mike Walton,Self-Study,85
+Stephanie Perez,ChatGPT,65
+Aaron Garcia,Self-Study,73
+Jennifer Jordan,Group Study,72
+Elizabeth Robles,Tutoring,72
+Johnathan Sloan,ChatGPT,77
+Kelly Higgins,Self-Study,59
+John Reyes,Self-Study,78
+Stephanie Smith,ChatGPT,68
+Joseph Ramirez,Self-Study,91
+Mary Ramsey,Self-Study,79
+Robert White,Self-Study,87
+Megan Barron,Self-Study,59
+Felicia Dixon,Tutoring,89
+Cathy Walsh,Group Study,88
+Jason Montgomery,Group Study,84
+Amy Shields,Group Study,64
+William Adams,Tutoring,91
+Allison Reynolds,ChatGPT,76
+James Ibarra,Group Study,92
+Karen Larsen,Self-Study,65
+Kevin Lopez,Self-Study,66
+Joshua Smith,Self-Study,60
+Denise Adams,ChatGPT,78
+Casey Roberts,Self-Study,58
+Jonathan Greene,Tutoring,77
+Jacob Carey,ChatGPT,78
+Mark Wilson,Tutoring,84
+Diana Sanford,ChatGPT,62
+Alejandro Little,Self-Study,82
+Keith Foley,Group Study,74
+Jeffrey Dawson,Self-Study,82
+Donald Mooney,Group Study,76
+Ryan Austin,ChatGPT,65
+Heather Lucero,Tutoring,69
+Cynthia Roberson,Group Study,72
+Emily Brown,Self-Study,74
+Wendy Valenzuela,Self-Study,64
+Francis Smith,Tutoring,57
+Elizabeth Stark,Group Study,64
+Courtney Collins,Self-Study,60
+Timothy English,Tutoring,81
+Eric Palmer,Group Study,71
+Franklin Ortega,Group Study,66
+Logan Romero,ChatGPT,64
+Mr. Michael Estrada DDS,ChatGPT,84
+Eric White,Group Study,86
+Dana Dunn,Self-Study,57
+Michelle Miller,ChatGPT,79
+Sarah Smith,Group Study,67
+Jennifer Carter MD,Self-Study,70
+John Jones,Tutoring,75
+Debra Garcia,Tutoring,71
+Ronald Hobbs,Group Study,70
+Brandon Martinez,Tutoring,75
+Nicholas White,Group Study,65
+Michael Young,Tutoring,83
+Ryan Stewart,Tutoring,70
+Brian Smith,ChatGPT,55
+Brianna Martin,Group Study,87
+Jeffery Ruiz,Self-Study,81
+Anthony Lowe,Self-Study,90
+George Crane,Tutoring,69
+Edward Raymond,ChatGPT,99
+Eric Riley,Tutoring,69
+Brett Reid,ChatGPT,78
+Jeremy Nelson,Tutoring,75
+Debra Schultz,Tutoring,64
+Bethany Parker,Tutoring,72
+Gregory King,ChatGPT,90
+Kaitlin Gates,ChatGPT,67
+Ryan Fisher,Tutoring,64
+Mary Grimes,Self-Study,67
+Christopher Williams,Self-Study,63
+Mark Nelson,Tutoring,66
+Robert Shaffer,Group Study,94
+Tamara Ray,Group Study,86
+Ryan Walters,ChatGPT,76
+Amanda Sharp,ChatGPT,81
+Jeffrey Lynch,ChatGPT,64
+Melissa Atkinson,Self-Study,64
+Michael Smith,Self-Study,88
+Mrs. Kimberly Smith,Self-Study,58
+Joan Campbell,Self-Study,86
+Edward Walker,Tutoring,65
+Brenda Gross,Group Study,74
+Nicole Martinez,Self-Study,71
+Brian Thomas,Tutoring,72
+Lorraine Pratt,Self-Study,86
+Dawn Knight,ChatGPT,61
+David Bell,Group Study,67
+Laurie Young,Self-Study,80
+Stephanie Baker,Self-Study,74
+Caleb Drake,Group Study,75
+Mrs. Emma Roberts DDS,Self-Study,80
+Robert Petersen,Self-Study,88
+Matthew Lopez,ChatGPT,77
+Paul Chung,ChatGPT,69
+Amanda Clarke,Tutoring,82
+Charles Barber,Group Study,71
+Lisa Turner,ChatGPT,82
+Steven Meadows,Group Study,70
+Gerald Gates,ChatGPT,73
+Laura Brooks,ChatGPT,75
+Ryan Clark,Self-Study,75
+John Hunt,Tutoring,68
+Robert Martin,Group Study,100
+Mrs. Jennifer Cole,ChatGPT,89
+Teresa Foster,Tutoring,78
+Jessica Richards,Tutoring,84
+Sarah Powell,ChatGPT,92
+Brenda Guerrero,ChatGPT,65
+Lindsey Riggs,ChatGPT,55
+Christopher Johnson,Tutoring,77
+Kayla Allen,Self-Study,55
+Kevin Smith,ChatGPT,67
+Jason Johnson,Tutoring,69
+Jason Little,Group Study,61
+James Yang,Self-Study,89
+Robin Wilson,Tutoring,59
+John Palmer,ChatGPT,65
+Tammy Bray,Tutoring,84
+Michael Watts,Group Study,74
+Erica Brady,Tutoring,66
+Maria Adams,Tutoring,80
+Jon Zamora,ChatGPT,87
+Matthew Cook,Group Study,79
+Alfred Dean,Group Study,72
+Joshua Mcknight,Group Study,76
+Sharon Paul,Group Study,79
+Patrick Bernard,Tutoring,66
+Gregory Hall,Self-Study,61
+Billy Kennedy,Group Study,58
+Edward Powell,ChatGPT,67
+Jonathan Dean,Self-Study,82
+Curtis Bridges,Group Study,89
+Sean Carter,ChatGPT,73
+Henry Ramirez,Tutoring,64
+Samantha Avila,Self-Study,65
+Jonathon Foster,Self-Study,82
+Christine Vaughan,ChatGPT,76
+Veronica Pineda,Self-Study,82
+Stephanie Rose,Group Study,69
+Brandy Conner,Group Study,72
+Jessica Scott,Group Study,72
+Emily White,Group Study,67
+Christine Walker,ChatGPT,63
+Barbara White,Self-Study,86
+Amy Jones,Group Study,81
+Taylor Cook,Tutoring,74
+Kathleen Garcia,Group Study,80
+Lauren Hill,Tutoring,76
+Katherine Morgan,Self-Study,98
+James Brandt,Self-Study,64
+Nicole Sanders,ChatGPT,66
+Kevin Rice,Tutoring,62
+Jennifer Bailey,Group Study,80
+Donna Ochoa,Tutoring,63
+Carl Dixon,Tutoring,74
+Melissa Herman,Tutoring,77
+Matthew Williams,Group Study,72
+Gregory Young,Tutoring,80
+Tina Robinson,Group Study,84
+Lori Bryant,ChatGPT,82
+John Villegas,ChatGPT,65
+Michael Martinez,Group Study,91
+Benjamin Walker,ChatGPT,79
+Michael Shepherd,Group Study,65
+Jessica Hughes,Self-Study,85
+Eric Allen,Group Study,67
+Kevin Flynn,Self-Study,70
+Tina Young,Self-Study,68
+Shelia Alvarez,Self-Study,73
+Betty Wall,Tutoring,84
+Patrick Bailey,Group Study,77
+Becky Mills,Tutoring,89
+Maria Chavez,Self-Study,80
+James Anderson,Self-Study,55
+Kathryn Klein,ChatGPT,92
+Tracy Rogers,Self-Study,76
+Mrs. Susan Miller MD,ChatGPT,65
+Paul Francis,Self-Study,74
+Lee Roman,ChatGPT,59
+Jessica Jones,Group Study,61
+Robert Carter,Group Study,79
+Jessica Hall,ChatGPT,85
+Thomas Sanchez,Tutoring,78
+Robert Parker,Tutoring,63
+Claudia Smith,Tutoring,74
+Jose West,Tutoring,81
+Jason Conley,Tutoring,86
+Carol Calderon,Self-Study,82
+Julia Martinez,ChatGPT,85
+Jessica Ramirez,Group Study,87
+Tammy Holloway,ChatGPT,88
+Richard Keith,Self-Study,65
+Natalie Avila,Tutoring,69
+Kelly Bennett,ChatGPT,78
+Adrian Combs,Self-Study,75
+Colton Crawford,Self-Study,71
+Elizabeth Humphrey,Self-Study,94
+Christine Campbell,Group Study,81
+Brooke Ford,Tutoring,75
+Lucas Olson,ChatGPT,57
+Gregory Johnson,Self-Study,75
+Teresa Dickson,Self-Study,73
+Joshua Cole,Group Study,71
+Michael Morales,Self-Study,83
+Jane Hayes,ChatGPT,73
+Jeffrey Leon,ChatGPT,78
+John Green,Self-Study,67
+Rachel Clark,Tutoring,81
+Martin Lowe,Self-Study,68
+Amanda Jones,ChatGPT,80
+Michael Harris,ChatGPT,62
+Crystal Perry,ChatGPT,79
+Henry Castro,Tutoring,84
+Andrew Banks,Group Study,62
+Melinda Miller,Tutoring,70
+Rebecca Fisher,Tutoring,73
+Audrey Smith,Self-Study,89
+Angela Rosales,Tutoring,75
+Joseph Hunt,Group Study,86
+Benjamin Silva,Tutoring,78
+Evelyn Duncan,Group Study,69
+Anna Jones,ChatGPT,96
+Michelle David,ChatGPT,72
+George Morales,Group Study,83
+Danielle Nguyen,ChatGPT,79
+David Cain,Self-Study,75
+Edward Wilson,Tutoring,90
+Alexis Wong,Tutoring,60
+John Bailey,Self-Study,100
+April Adams,ChatGPT,63
+Morgan Medina,Group Study,76
+Joseph Jackson,Tutoring,73
+Johnny Robbins,Self-Study,75
+Monica Anderson,ChatGPT,65
+Alexander Howard,ChatGPT,79
+Edward Jackson,Self-Study,78
+Alexis Mendoza,Tutoring,85
+Heidi Chaney,Group Study,92
+Emily Conway,ChatGPT,68
+Leah Obrien,ChatGPT,77
+Amy Hale,Group Study,72
+Sandra Martin,ChatGPT,91
+Eric Rose,Tutoring,82
+Jonathan Garza,Self-Study,55
+Cathy Benton,Self-Study,80
+Linda Taylor,Tutoring,75
+Bradley Stone,ChatGPT,82
+Carol French,Self-Study,78
+Anthony Smith,ChatGPT,82
+Janet White,ChatGPT,66
+Robert Curtis,Self-Study,73
+Cynthia Thomas,ChatGPT,57
+Victor Hutchinson,Group Study,89
+Sabrina Parsons,Tutoring,83
+Justin Cox,ChatGPT,74
+John Keller,Group Study,66
+Calvin Berger,Self-Study,72
+Andrea Berg,Tutoring,77
+Michael Bailey,Self-Study,64
+Linda Daniels,Group Study,74
+Ricky Castaneda,Group Study,91
+Terry Walter,Tutoring,81
+Brittney Webb,Self-Study,80
+Lindsey Bryant,Group Study,73
+David Fields,ChatGPT,83
+Taylor Haynes,Group Study,70
+Herbert Knox,Tutoring,81
+Pamela Scott,Tutoring,68
+Victor Baker MD,Tutoring,76
+Sheena Kerr,Self-Study,80
+Elizabeth Gibson,ChatGPT,57
+Steven Rodriguez,Group Study,65
+Paul Miller,Group Study,74
+Stephen Meyer,ChatGPT,74
+Anthony Matthews,Self-Study,88
+Rebekah Romero,Self-Study,86
+Paul Green,ChatGPT,61
+Joshua Price,Self-Study,84
+Michael Wong,ChatGPT,66
+James Hill,Group Study,77
+Derrick Nguyen,Group Study,65
+Julie Davis,Group Study,72
+Cassandra Liu,Tutoring,90
+Sarah Chandler,Tutoring,74
+Lisa Francis,ChatGPT,66
+Latoya Cameron,ChatGPT,81
+Katherine Mayer,Self-Study,66
+Caitlin Rios,Tutoring,89
+Morgan Armstrong,Self-Study,79
+Christopher Marshall,ChatGPT,84
+Michael Leach,Group Study,87
+Ashley Cox,ChatGPT,73
+Stephanie Miller,ChatGPT,77
+Wendy Rodriguez,ChatGPT,79
+Aaron Lane,ChatGPT,86
+James Barrett,Group Study,75
+William Watson,Tutoring,70
+Carly Lewis,ChatGPT,74
+Russell Austin,Group Study,95
+Cameron Burch,Tutoring,65
+Marcus Lee,ChatGPT,68
+David Martinez,Self-Study,69
+Mr. Jeffrey Davis,ChatGPT,71
+Christopher Bailey,ChatGPT,83
+Caitlin Stevenson,ChatGPT,83
+Steven Rodriguez,Group Study,69
+Jennifer Dixon,ChatGPT,64
+Morgan Kelly,Tutoring,71
+Nichole Klein,Self-Study,82
+Danielle Rivera,Tutoring,70
+Marvin Johnson,Group Study,64
+Paul Kirk,Group Study,82
+Leslie Velez,Self-Study,88
+Renee Booker,Group Study,62
+Kathleen Harris,Tutoring,70
+Kimberly Torres,Self-Study,67
+Dale Nguyen,Group Study,78
+Kari Olson,Tutoring,72
+Wayne Gray,Self-Study,66
+Margaret Wolfe,Self-Study,75
+Jeremy Martin,Self-Study,69
+Jennifer Wood,Tutoring,83
+Pamela Harrington,Self-Study,71
+Kristina Simpson,Group Study,66
+Wesley Cochran,Group Study,70
+David Hamilton,ChatGPT,91
+Kimberly Myers,ChatGPT,65
+Shane Cobb,Self-Study,70
+Terry Middleton,ChatGPT,81
+Brittany Brown,Self-Study,75
+Anne Smith,Group Study,77
+Craig Gross,Tutoring,80
+Brent Henderson,Self-Study,68
+Jessica Krause,Group Study,67
+Elizabeth Bowman,Self-Study,63
+Heather Davis,Self-Study,69
+Heather Jones,Group Study,71
+Ashley Palmer,Tutoring,86
+Dylan Sloan,Tutoring,77
+Natalie Watts,Group Study,62
+Melissa Holland,Group Study,73
+Timothy Jackson,ChatGPT,81
+John Moore,ChatGPT,67
+Steven Dean,Tutoring,56
+Daniel Jones,Tutoring,67
+Debbie Vasquez,ChatGPT,79
+Judith Thomas,ChatGPT,77
+Shane Long,ChatGPT,77
+Danny Moore,Group Study,84
+Ashley Banks,ChatGPT,69
+Casey Patel,Group Study,87
+Cynthia Holt,Group Study,71
+Christopher Brown,Tutoring,60
+Kim Diaz,Tutoring,80
+Andrew Powell,ChatGPT,87
+Gregory Solomon,Tutoring,83
+Dylan Harding,Self-Study,93
+Kristin Cruz,Tutoring,69
+Sonya Sloan,Tutoring,85
+Ronald Paul,ChatGPT,75
+Reginald Gonzalez,ChatGPT,63
+Kristina Taylor,Group Study,75
+Alfred Carroll,Self-Study,75
+Daniel Carroll,Tutoring,69
+Betty Osborne,Group Study,75
+Michael Jensen,Tutoring,78
+Samantha Giles,Self-Study,73
+Taylor Smith,ChatGPT,77
+Cynthia Burke,Group Study,77
+Robert Jones,ChatGPT,82
+Troy Johnson,Tutoring,92
+Micheal Newman,ChatGPT,70
+Theresa Reid,Group Study,55
+Holly Bradshaw,Tutoring,81
+Samantha Salazar,Group Study,66
+Allison Stewart,ChatGPT,82
+Erica Elliott,ChatGPT,76
+Jared Barnes,Self-Study,83
+Emily Hansen,ChatGPT,77
+Samantha Barrett,Group Study,68
+Mr. Derek Boyd,ChatGPT,83
+Amanda Klein,Group Study,96
+Laurie Maddox,ChatGPT,79
+Richard Hamilton,Self-Study,76
+Daniel Torres,ChatGPT,71
+John Gibson,ChatGPT,72
+Erin Harris,Tutoring,72
+Miguel Porter,Tutoring,66
+Maria Peters,Group Study,91
+Alicia Dodson,Self-Study,87
+Nathan Wallace,Group Study,75
+James Sullivan,Self-Study,68
+Clifford Washington,Tutoring,61
+Molly Reed,Group Study,91
+Nicole Boyd,Self-Study,69
+David Richard,Self-Study,75
+Connor Thompson,ChatGPT,71
+Bryan Murphy,Self-Study,98
+Joshua Walker,Tutoring,63
+Mrs. Taylor Mata,Self-Study,55
+Amanda Johnson,Self-Study,80
+Justin Lee MD,ChatGPT,62
+Maurice Gates,Tutoring,71
+Lisa Massey,Tutoring,63
+Michelle Duffy,Group Study,86
+Julie Francis,ChatGPT,83
+Christopher Harvey,Self-Study,56
+Katherine Powell,ChatGPT,63
+Eric White,ChatGPT,73
+Amy Pierce,Group Study,71
+James Allen,Group Study,76
+George Boyle,Tutoring,76
+John Ruiz,ChatGPT,69
+Shannon Robertson,Group Study,75
+Linda Acosta,Tutoring,84
+Tanya Hernandez,Group Study,80
+Michael Villegas,ChatGPT,59
+Tamara Powell,Group Study,78
+Vanessa Wallace,ChatGPT,87
+Sabrina Munoz,Self-Study,91
+Rebecca White,Group Study,76
+Joan Macdonald,ChatGPT,83
+Jonathan Davis,ChatGPT,82
+Gabrielle Singh,Tutoring,79
+Matthew Farmer,Self-Study,70
+Jessica Collins,Tutoring,63
+Oscar Sanchez,Tutoring,70
+Jennifer Alvarado,Group Study,75
+Marcus Robertson,Tutoring,68
+Nathan Holmes,Self-Study,61
+Stephen Wells,Self-Study,75
+Heather Fisher,Tutoring,68
+Cody King,Tutoring,79
+Jonathan Curry,ChatGPT,76
+Amy Martinez,Self-Study,85
+David Pitts,Group Study,68
+Bobby Martin,Self-Study,89
+Chad Rodriguez,Tutoring,94
+Jeff Williams,Group Study,89
+Daniel Hubbard,Self-Study,58
+Diana Sweeney,Self-Study,59
+Robert Martinez,ChatGPT,85
+Amber Daugherty,Self-Study,72
+Tammy Delgado,Self-Study,79
+Amber Allen,ChatGPT,78
+Ryan Stout,Group Study,96
+Courtney Jackson,Group Study,71
+Chris Brooks,Self-Study,60
+Sean Anderson,ChatGPT,98
+Luke Taylor,Group Study,62
+Ann Pugh,ChatGPT,73
+Craig Sanchez,Self-Study,71
+Casey Stanton,Tutoring,87
+Jacob Perry,Self-Study,73
+Katherine Kelly,Group Study,71
+Hannah Lambert,Self-Study,75
+Joshua Flynn,Self-Study,80
+Shannon Rodriguez,Group Study,80
+Gail Garcia,Group Study,83
+Matthew Banks,Group Study,77
+Amber Smith,Self-Study,63
+Cole Oconnor,ChatGPT,76
+Rachel Holt,Group Study,91
+John Hernandez,Tutoring,93
+Gary Bryan PhD,Group Study,78
+Shaun Wright,Tutoring,55
+Mary Griffin,Self-Study,69
+Dawn Medina,Self-Study,90
+Deborah Hutchinson,Tutoring,56
+Sara Finley,Tutoring,58
+Ashley Stewart,ChatGPT,78
+Timothy Solis,Self-Study,76
+Vincent Smith,Self-Study,72
+Natalie Wallace,Group Study,77
+David Fox,Self-Study,81
+Tommy Short,Self-Study,65
+Randall Banks,Self-Study,80
+Loretta Hendrix,ChatGPT,73
+Susan Hurst,Tutoring,79
+Bethany Moon,ChatGPT,80
+Anthony Edwards,ChatGPT,65
+Sylvia Orozco,ChatGPT,75
+Tyler Vasquez,Tutoring,78
+Aaron Brown,Self-Study,64
+Patricia Stone,ChatGPT,55
+Natasha Singh,Tutoring,77
+David Hays,Self-Study,68
+Jacqueline Mora,Group Study,78
+Alfred Robinson,ChatGPT,68
+Alyssa Ballard,Self-Study,82
+Erin Wong,Self-Study,67
+Kristy Briggs,Group Study,67
+Kyle Garcia DDS,ChatGPT,84
+Lynn Price,Tutoring,71
+Caroline Todd,Tutoring,64
+Christine Anderson,Self-Study,79
+Corey Briggs,ChatGPT,59
+Tricia Schmidt,ChatGPT,83
+Jason Johnston,Group Study,67
+Julia Mitchell,Group Study,70
+Jay Reynolds,Self-Study,67
+Bethany Davis,Tutoring,66
+Jason Garrett,Tutoring,89
+Michael Floyd,ChatGPT,74
+Heather Beck,Tutoring,80
+Scott Allen,Tutoring,76
+Valerie Fleming,Self-Study,66
+Brett Silva,ChatGPT,63
+Sheila Vasquez,Self-Study,88
+Jermaine Matthews,Self-Study,75
+Ryan Moore,Tutoring,76
+Kathryn Brown,Group Study,57
+Joel Lee,ChatGPT,96
+Wanda Huff,Group Study,65
+John Wilson,Self-Study,97
+Rebecca Singleton,ChatGPT,79
+Daniel Hurley,Self-Study,94
+Mariah Chambers,Group Study,63
+Samuel Collins,ChatGPT,67
+Michelle Roberts,Group Study,74
+Katie Freeman,Group Study,71
+James Gutierrez,Tutoring,90
+Karen Pham,Self-Study,69
+Sherry Estrada,Group Study,73
+Michelle Weaver,Tutoring,71
+Marc Taylor,Self-Study,70
+Timothy Simpson,ChatGPT,76
+Timothy Kennedy,Group Study,73
+Steven Dickson,Tutoring,91
+Derrick Ramirez,Self-Study,71
+Joshua Gonzalez,ChatGPT,73
+Charles Walton,ChatGPT,85
+Amanda Gonzales,ChatGPT,76
+Bryan Brown,Self-Study,72
+Deborah Mathews,ChatGPT,79
+Tamara Miller,ChatGPT,86
+Frank Prince,Group Study,65
+Katherine Hines,Group Study,72
+Dawn Simon,Self-Study,90
+Lori Rivera,Group Study,74
+Jacob Pierce,Self-Study,74
+Mark Grant,Group Study,57
+James Dean,Self-Study,72
+Aaron Blackburn,Self-Study,78
+Kevin Sexton,ChatGPT,71
+Robert Lucas,ChatGPT,66
+Tami Wallace MD,ChatGPT,88
+Ellen Crawford,ChatGPT,88
+Steven Gonzalez,Tutoring,58
+Robert Floyd,Group Study,76
+Jeremy Franco,Tutoring,69
+Robert Swanson,Group Study,75
+Rachel Allen,Group Study,83
+Leah Sanders,Self-Study,86
+Samantha Monroe,ChatGPT,66
+Richard Stone,ChatGPT,58
+Andrew Simpson,ChatGPT,66
+Emily Garcia,ChatGPT,68
+Debra Hoffman,Self-Study,65
+Natasha Watson,Tutoring,72
+Larry Johnson,ChatGPT,71
+Anna Tucker,Group Study,86
+Kelly Barnes,Tutoring,88
+Jessica Lambert,Self-Study,72
+Alexandra Peck,Self-Study,58
+Kristi Luna,ChatGPT,71
+Amber Fisher,Self-Study,88
+Terry Wheeler,Self-Study,71
+Bill Beasley,Self-Study,77
+Joshua Long,ChatGPT,58
+Mrs. Sherry Rodriguez,Group Study,71
+Mary Roach,Group Study,86
+Cynthia Hale,Group Study,59
+Richard Espinoza,Group Study,68
+Elizabeth Benson,Group Study,75
+Lindsey Hunter,Group Study,90
+Elizabeth Ruiz,Group Study,62
+Brittany Garcia,ChatGPT,89
+Robert Jones,ChatGPT,65
+Corey Wood,Group Study,71
+Joshua Perez,Tutoring,75
+Erin Burke,ChatGPT,62
+Stephanie Floyd,Group Study,65
+Cameron Hutchinson,Group Study,70
+Keith Myers,ChatGPT,85
+Abigail Shaw,Group Study,65
+Kimberly Hamilton,Tutoring,65
+Daniel Miller,Tutoring,63
+Anthony Collins,Group Study,69
+Wayne Brown,ChatGPT,85
+Derek Luna,Group Study,73
+William Vincent,Tutoring,83
+Alicia Strickland,Group Study,76
+Linda Savage,Self-Study,86
+Tony Thompson,Self-Study,81
+Brian Proctor,Self-Study,89
+Erika Hammond,Self-Study,78
+Stephanie Cooley,Self-Study,62
+Amy Kirby,Tutoring,60
+Robin Roy,Tutoring,74
+Walter Jones,Group Study,67
+Krystal Taylor,Tutoring,64
+Deborah Nunez,ChatGPT,74
+Jill Ruiz,ChatGPT,70
+James Hernandez,Group Study,81
+Benjamin Ward,Group Study,94
+Emily Bennett,ChatGPT,73
+David Brooks,Tutoring,70
+Gregory Fields,Self-Study,70
+Douglas Cummings,ChatGPT,96
+Deborah Banks,Tutoring,71
+Tonya Fisher,Tutoring,66
+Mr. John Williams,Group Study,59
+Jennifer Stanton,ChatGPT,63
+Kenneth Perkins,ChatGPT,77
+Theresa Clark,Tutoring,88
+Tracy Bradley,Group Study,86
+Zachary Dominguez,Tutoring,72
+Shane Parsons,Tutoring,76
+Michael Scott,Group Study,55
+Kaylee Murray,Self-Study,69
+Erin Bowen,Group Study,71
+Nicholas Davis,Self-Study,62
+Brian Garcia,ChatGPT,55
+Natalie Duncan,Tutoring,76
+Leah Reeves,ChatGPT,71
+Natasha Castillo,ChatGPT,78
+Michelle Howell,Tutoring,84
+Amanda Wilson,Self-Study,70
+Wendy Dixon,Group Study,86
+William Torres,ChatGPT,84
+Carrie Day,ChatGPT,57
+Joseph Burgess,ChatGPT,70
+Sarah Bradley,ChatGPT,71
+Michelle Berger,Group Study,66
+Kristina Avila,Group Study,55
+Kristopher Macias,ChatGPT,79
+James Harvey,Self-Study,60
+Michelle Caldwell,ChatGPT,88
+Nancy Little,ChatGPT,69
+Jessica Rasmussen,Self-Study,71
+Claudia Williams,Group Study,72
+Erika Smith,ChatGPT,87
+Mrs. Stephanie Dunn DDS,ChatGPT,84
+Jennifer Thomas,Tutoring,76
+David Fisher,Tutoring,55
+Jasmine Faulkner,Group Study,80
+Francisco Smith,Self-Study,72
+Jacob Salazar,Self-Study,70
+Mrs. Melanie Williams,Group Study,89
+Jonathan Rice,Tutoring,71
+Caleb Miller,ChatGPT,79
+Austin Rosario,Tutoring,80
+Samantha Logan,Tutoring,60
+Nicholas Barrett,ChatGPT,71
+Audrey Sharp,ChatGPT,83
+Kimberly Baker,Self-Study,70
+Samantha Bruce,Self-Study,72
+Joshua Phillips,Tutoring,71
+Joseph Holmes,Tutoring,74
+Molly Berry,Group Study,75
+Stephanie Wagner,Group Study,68
+Dylan Vega,Group Study,82
+Heather Jackson,Tutoring,94
+Robert Davis,Group Study,78
+John Pena,Tutoring,76
+Michael Brown,Self-Study,74
+Taylor Mccoy,Tutoring,71
+Anne Coffey,ChatGPT,73
+Melissa Larson,Self-Study,83
+Nicole Walls,ChatGPT,92
+Jordan Benjamin,Tutoring,72
+Colton Phillips,ChatGPT,80
+Emily Warren,Self-Study,78
+Denise Williams,ChatGPT,70
+Eric Greene,Tutoring,80
+Mark Townsend,ChatGPT,85
+Aaron Snyder,Self-Study,70
+Cheyenne Kane,Group Study,64
+Taylor Olson,ChatGPT,70
+Ashlee Braun,ChatGPT,75
+Frank Gardner,Tutoring,55
+Rachel Saunders,ChatGPT,69
+Christopher Sanders,ChatGPT,64
+Melissa Ellis,Group Study,78
+Kaitlyn Torres MD,Tutoring,73
+Kristen Peterson,Self-Study,90
+Karen Hubbard,Self-Study,61
+Jeffrey Stafford,Group Study,87
+Derek Collins,Tutoring,67
+Timothy Garcia,Group Study,78
+Patty Fischer,Self-Study,80
+Stacy Griffin,Tutoring,91
+Tyler Green,Group Study,82
+Brittany Collins,Self-Study,87
+Janice Turner,Tutoring,65
+Amy Robinson,Self-Study,64
+Thomas Harmon,Self-Study,67
+Shane Schneider,Self-Study,84
+William Davis,ChatGPT,55
+Jackie Morales,Tutoring,83
+Janet Schultz,ChatGPT,69
+Kimberly Vargas,Self-Study,74
+Courtney Rios,Group Study,81
+Sydney Walsh,Group Study,90
+Benjamin Silva,Group Study,74
+Amy Madden,Group Study,74
+Richard Sims,ChatGPT,58
+Timothy King,Tutoring,55
+Amanda Wiley,Group Study,55
+Erica Taylor,Group Study,65
+Ruben Jones,Tutoring,84
+Casey Parker,ChatGPT,72
+Renee George,Group Study,79
+Cheryl Saunders,Group Study,73
+Megan Garcia,Self-Study,77
+Gabriella Williams,ChatGPT,80
+Christopher Perkins,Self-Study,62
+Melvin Wilson,Group Study,62
+Lawrence Baker,ChatGPT,75
+Jordan Nichols,Self-Study,79
+Amy Horn,Tutoring,63
+Andrew Simmons,Group Study,82
+James Morgan,Self-Study,76
+Bryan Edwards,ChatGPT,62
+Brad Ortega,Self-Study,60
+Melissa Hicks,Group Study,69
+Michael Burns,ChatGPT,77
+Monica Jackson,ChatGPT,72
+Rhonda Wong,Group Study,64
+Courtney Campos,Tutoring,73
+Ruth Koch,ChatGPT,70
+Billy Boyd,Tutoring,78
+Joseph Williams,ChatGPT,71
+Rodney Gordon,ChatGPT,75
+Sherri Williams,ChatGPT,67
+Brandy Reed,ChatGPT,93
+Laura Parker,Self-Study,71
+Mark Smith,Self-Study,71
+Edward Miller,ChatGPT,69
+Shannon Thompson,ChatGPT,67
+Suzanne Hanson,ChatGPT,68
+Caroline Brown,Group Study,89
+Laurie Green,Tutoring,93
+Douglas Small,ChatGPT,68
+David French,Group Study,76
+Nichole Nielsen,ChatGPT,82
+Leslie Garcia,Self-Study,75
+Paul Taylor,Self-Study,82
+Brandi Bennett,ChatGPT,81
+Amy Cortez,Tutoring,83
+Sharon Hinton,Self-Study,69
+Clinton Hardy,Group Study,69
+Scott Marshall,Tutoring,62
+Julia Williams,ChatGPT,93
+Erica Gay,Self-Study,90
+Jerry Garcia,ChatGPT,81
+Mr. Dalton Hall,ChatGPT,60
+Ann Perez,Tutoring,69
+Christopher Wong,Group Study,73
+Jessica Henderson,ChatGPT,79
+Veronica Norris,Tutoring,60
+Gregory Smith,ChatGPT,75
+Nicole Taylor,Group Study,59
+Jonathan Perez,Self-Study,77
+John Reeves,Tutoring,88
+Joshua Robinson,Self-Study,65
+Tony Swanson,Self-Study,73
+Amber Smith,Self-Study,85
+John Clark,Group Study,75
+Sarah Ramsey,Self-Study,79
+Brandon Patterson,Tutoring,73
+Tammy Pope,Tutoring,81
+Daniel Cordova,Self-Study,69
+Jason Porter,Tutoring,89
+Kathy Lewis,ChatGPT,86
+Tim Carson,Tutoring,71
+Timothy Lutz,ChatGPT,70
+Daniel George,Group Study,83
+Jesse Tapia,Tutoring,79
+Brittany Robertson,Tutoring,76
+Cathy Hicks,Group Study,77
+Jason Burke,Group Study,78
+Sarah Santos,Tutoring,70
+Mrs. Carla Rodriguez DDS,ChatGPT,60
+Colton Vargas,Self-Study,80
+Sara Lawrence,Group Study,82
+Cody Johnson,ChatGPT,83
+Lucas Armstrong III,Group Study,74
+Austin Benson,Group Study,73
+Mr. John Davis DVM,Tutoring,70
+Rebecca Thomas,Tutoring,89
+Rebecca Jones,Self-Study,78
+Robert Ramirez,Group Study,66
+Ryan Thompson,Self-Study,73
+Robert Brown,Tutoring,80
+Margaret Bell,Tutoring,80
+Tracy Green,ChatGPT,61
+Maurice Perez,Self-Study,70
+Sharon Burgess,ChatGPT,56
+Natasha Black,Tutoring,63
+Cassie Boyer,ChatGPT,87
+Jeffrey Miranda,Tutoring,76
+Christine Wright,Self-Study,68
+Kimberly Gilmore,Tutoring,65
+Edward Mata,ChatGPT,73
+Mary Meyer,ChatGPT,58
+Jacob Hoffman,ChatGPT,75
+Madeline Henderson,Self-Study,68
+Andrea White,Group Study,71
+Michelle Hayden,Self-Study,78
+Christopher Kelly,Tutoring,67
+Diana Henderson,ChatGPT,88
+Justin Ryan,Tutoring,69
+John Gonzalez,Group Study,89
+Shawn Myers,ChatGPT,89
+Regina Evans,Group Study,89
+Joshua Taylor,Tutoring,63
+Robert Short,Group Study,69
+Richard Chambers,Self-Study,77
+Crystal Foley,Group Study,62
+Elijah Calhoun,Self-Study,68
+Brandon Anderson,ChatGPT,70
+Joseph Adams,Self-Study,88
+Andrea Stone,Group Study,94
+Amanda Brown,ChatGPT,66
+James Thomas,Group Study,64
+John Washington,Tutoring,65
+Craig Vaughn,Self-Study,76
+Heidi Morrison,Group Study,63
+Patricia Rubio,Self-Study,68
+David Bowman,Self-Study,70
+Courtney Andrews,Self-Study,81
+Laura Watson,Self-Study,61
+Stephen King,ChatGPT,70
+Marie Collins,ChatGPT,84
+Steven Mcdonald,Tutoring,66
+Rebecca Jenkins,Self-Study,75
+Shannon Williamson,Tutoring,76
+Daniel Bird,Tutoring,61
+Michael Carey,Self-Study,77
+Darren Harvey,Tutoring,68
+Cynthia Johnson,Self-Study,77
+Patrick Harrison,Group Study,80
+Dr. David Bowers,Tutoring,85
