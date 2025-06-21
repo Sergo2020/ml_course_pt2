@@ -2,7 +2,7 @@
 
 ### Data
 
-For this assignment I generated data. Dataset is **Group Data by Study Method**, where student studied in diffrent
+For this assignment I generated data. Dataset is **Group Data by Study Method**, where student studied in different
 method and got their test scores. In first subset student got score form the same distribution and in the other each group
 got different distribution. In practice, I used normal distribution with different mean values.
 

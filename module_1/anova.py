@@ -38,14 +38,14 @@ balanced_spe_data.loc[balanced_spe_data['Study_Method'] == 'ChatGPT', 'Test_Scor
 unbalanced_spe_data = unbalanced_data.copy()
 unbalanced_spe_data.loc[unbalanced_spe_data['Study_Method'] == 'ChatGPT', 'Test_Score'] = unbalanced_spe_data[unbalanced_spe_data['Study_Method'] == 'ChatGPT']['Test_Score'] - 20
 
-# draw_data(balanced_spe_data, ["ChatGPT", "Self-Study", "Tutoring", "Group Study"], Path('balanced_spe_data.png'))
-# draw_data(unbalanced_spe_data, ["ChatGPT", "Self-Study", "Tutoring", "Group Study"], Path('unbalanced_spe_data.png'))
+draw_data(balanced_spe_data, ["ChatGPT", "Self-Study", "Tutoring", "Group Study"], Path('balanced_spe_data.png'))
+draw_data(unbalanced_spe_data, ["ChatGPT", "Self-Study", "Tutoring", "Group Study"], Path('unbalanced_spe_data.png'))
 
-# p_val3 = test_anova(balanced_spe_data)
-# print_results(p_val3)
-#
-# p_val4 = test_anova(unbalanced_spe_data)
-# print_results(p_val4)
+p_val3 = test_anova(balanced_spe_data)
+print_results(p_val3)
+
+p_val4 = test_anova(unbalanced_spe_data)
+print_results(p_val4)
 
 test_tukey(balanced_data)
 test_tukey(unbalanced_data)
