@@ -1,0 +1,1001 @@
+,Education_Level,Job_Satisfaction
+0,PhD,Medium
+1,High School,High
+2,Master's,Medium
+3,Master's,Low
+4,PhD,Medium
+5,PhD,High
+6,Bachelor's,High
+7,PhD,Low
+8,High School,Low
+9,Master's,High
+10,PhD,High
+11,Bachelor's,Low
+12,Master's,Medium
+13,PhD,Low
+14,High School,Low
+15,Master's,Low
+16,Master's,Low
+17,High School,Medium
+18,PhD,High
+19,Bachelor's,High
+20,Bachelor's,Medium
+21,Bachelor's,Low
+22,Bachelor's,High
+23,Master's,High
+24,Master's,High
+25,High School,Low
+26,Master's,Low
+27,High School,High
+28,High School,Low
+29,High School,High
+30,Bachelor's,Medium
+31,High School,High
+32,Master's,Medium
+33,Bachelor's,High
+34,Bachelor's,Medium
+35,Bachelor's,High
+36,Master's,High
+37,PhD,High
+38,PhD,Low
+39,Master's,Medium
+40,Master's,Medium
+41,PhD,Low
+42,Bachelor's,Medium
+43,PhD,Low
+44,PhD,Medium
+45,High School,Medium
+46,PhD,High
+47,Master's,Medium
+48,Bachelor's,High
+49,High School,Medium
+50,PhD,High
+51,Bachelor's,High
+52,High School,Low
+53,PhD,Low
+54,Master's,Low
+55,PhD,Low
+56,Master's,High
+57,High School,Low
+58,Master's,High
+59,Bachelor's,Low
+60,Master's,Medium
+61,High School,High
+62,Master's,High
+63,Master's,High
+64,High School,Low
+65,High School,Low
+66,High School,Medium
+67,Bachelor's,High
+68,Bachelor's,Low
+69,Bachelor's,High
+70,Master's,Low
+71,Bachelor's,Medium
+72,PhD,High
+73,Master's,Medium
+74,PhD,Low
+75,PhD,Medium
+76,High School,Low
+77,Bachelor's,Medium
+78,High School,High
+79,Master's,Low
+80,PhD,Medium
+81,PhD,Low
+82,Master's,Medium
+83,High School,High
+84,Master's,Low
+85,Master's,Low
+86,Bachelor's,Medium
+87,Bachelor's,High
+88,Master's,Low
+89,Bachelor's,Medium
+90,Bachelor's,Medium
+91,Master's,High
+92,Master's,High
+93,High School,High
+94,Master's,High
+95,PhD,Medium
+96,PhD,Medium
+97,PhD,Medium
+98,Bachelor's,High
+99,Master's,Low
+100,Master's,High
+101,PhD,High
+102,PhD,Medium
+103,High School,High
+104,Bachelor's,Medium
+105,High School,High
+106,High School,Medium
+107,Bachelor's,Medium
+108,Bachelor's,Low
+109,High School,Medium
+110,PhD,High
+111,High School,Low
+112,PhD,Medium
+113,High School,High
+114,PhD,Low
+115,High School,High
+116,Bachelor's,Medium
+117,Master's,High
+118,PhD,High
+119,High School,Medium
+120,PhD,Medium
+121,PhD,Medium
+122,Bachelor's,High
+123,PhD,Low
+124,Master's,High
+125,High School,Low
+126,Master's,Low
+127,PhD,High
+128,Master's,Low
+129,Master's,Low
+130,PhD,Low
+131,Master's,High
+132,Bachelor's,Low
+133,Bachelor's,Medium
+134,PhD,Medium
+135,Master's,Low
+136,PhD,Low
+137,High School,High
+138,High School,Low
+139,Master's,High
+140,Master's,High
+141,High School,Low
+142,Master's,Low
+143,Master's,Low
+144,Bachelor's,High
+145,Bachelor's,High
+146,PhD,Low
+147,Master's,Low
+148,Master's,Medium
+149,High School,High
+150,Bachelor's,Low
+151,Master's,High
+152,High School,Low
+153,PhD,High
+154,Bachelor's,Low
+155,High School,Medium
+156,PhD,Medium
+157,Master's,Low
+158,Master's,Medium
+159,High School,Medium
+160,Master's,Medium
+161,PhD,High
+162,PhD,High
+163,Master's,High
+164,PhD,Low
+165,High School,High
+166,High School,Medium
+167,High School,Medium
+168,PhD,Low
+169,Bachelor's,High
+170,High School,Medium
+171,High School,Low
+172,Master's,Medium
+173,Bachelor's,High
+174,Master's,Low
+175,Bachelor's,Medium
+176,Master's,High
+177,Master's,Low
+178,Bachelor's,Low
+179,High School,Medium
+180,Master's,High
+181,High School,High
+182,Master's,Low
+183,PhD,High
+184,Master's,High
+185,Bachelor's,High
+186,PhD,Low
+187,Master's,Medium
+188,Master's,Low
+189,Master's,High
+190,High School,High
+191,Bachelor's,Medium
+192,Master's,High
+193,Master's,High
+194,Master's,Medium
+195,Bachelor's,Medium
+196,Master's,Medium
+197,High School,High
+198,Bachelor's,High
+199,PhD,Low
+200,PhD,Medium
+201,Master's,Low
+202,High School,Low
+203,Master's,High
+204,High School,High
+205,Master's,Medium
+206,Bachelor's,Low
+207,PhD,Medium
+208,Bachelor's,Low
+209,High School,High
+210,PhD,Medium
+211,Bachelor's,High
+212,Master's,Medium
+213,Master's,Medium
+214,High School,Low
+215,Master's,Low
+216,High School,High
+217,Bachelor's,Medium
+218,High School,Medium
+219,Bachelor's,Low
+220,PhD,Medium
+221,Master's,Low
+222,Bachelor's,Low
+223,Master's,High
+224,PhD,High
+225,Bachelor's,High
+226,Master's,High
+227,Master's,Low
+228,High School,High
+229,High School,Low
+230,PhD,High
+231,High School,Low
+232,Bachelor's,High
+233,Bachelor's,High
+234,High School,High
+235,Master's,Medium
+236,Master's,Low
+237,High School,Low
+238,Master's,High
+239,PhD,Medium
+240,PhD,Medium
+241,Bachelor's,Low
+242,PhD,Low
+243,Master's,High
+244,Bachelor's,Medium
+245,Master's,Low
+246,High School,Medium
+247,High School,Medium
+248,Master's,Medium
+249,Master's,High
+250,Master's,High
+251,Master's,Medium
+252,Bachelor's,Medium
+253,Bachelor's,Low
+254,PhD,Low
+255,Bachelor's,High
+256,Master's,Low
+257,PhD,Low
+258,PhD,Medium
+259,PhD,Medium
+260,Bachelor's,Medium
+261,PhD,Low
+262,High School,Medium
+263,High School,High
+264,Master's,Low
+265,Master's,High
+266,PhD,Low
+267,High School,Medium
+268,Master's,Low
+269,High School,Medium
+270,High School,Medium
+271,Bachelor's,Medium
+272,Master's,Low
+273,Master's,Medium
+274,Master's,High
+275,PhD,High
+276,High School,High
+277,Bachelor's,Medium
+278,High School,Low
+279,PhD,Low
+280,High School,Low
+281,Master's,High
+282,Master's,Medium
+283,PhD,Low
+284,High School,Medium
+285,Bachelor's,Medium
+286,Bachelor's,Medium
+287,Master's,High
+288,High School,High
+289,Master's,Medium
+290,PhD,High
+291,Bachelor's,High
+292,Bachelor's,Low
+293,PhD,Medium
+294,Master's,High
+295,PhD,High
+296,Bachelor's,Medium
+297,Bachelor's,High
+298,PhD,Low
+299,High School,Medium
+300,PhD,Low
+301,High School,Low
+302,High School,Low
+303,High School,Low
+304,Master's,Medium
+305,High School,Medium
+306,PhD,Medium
+307,PhD,Low
+308,Master's,Low
+309,Master's,Medium
+310,Master's,Low
+311,High School,Medium
+312,PhD,Low
+313,Master's,High
+314,High School,High
+315,Bachelor's,Medium
+316,Bachelor's,Low
+317,Bachelor's,Low
+318,PhD,Medium
+319,High School,High
+320,PhD,Medium
+321,Master's,Medium
+322,High School,Medium
+323,High School,Low
+324,High School,Low
+325,PhD,High
+326,PhD,High
+327,Bachelor's,Low
+328,High School,High
+329,PhD,Medium
+330,PhD,Medium
+331,High School,Medium
+332,Master's,Low
+333,Master's,High
+334,Bachelor's,Low
+335,Master's,Low
+336,Master's,High
+337,Master's,Medium
+338,High School,Medium
+339,Master's,High
+340,PhD,Low
+341,Master's,Low
+342,Master's,Medium
+343,Bachelor's,High
+344,High School,High
+345,High School,Low
+346,Master's,Low
+347,Bachelor's,Low
+348,PhD,Low
+349,Master's,Low
+350,High School,High
+351,High School,Medium
+352,Master's,Medium
+353,High School,Medium
+354,High School,Medium
+355,High School,Low
+356,PhD,Low
+357,Master's,High
+358,High School,High
+359,Master's,Low
+360,Master's,Medium
+361,High School,Low
+362,Bachelor's,Low
+363,Bachelor's,Low
+364,Bachelor's,Low
+365,PhD,Medium
+366,High School,Low
+367,High School,Low
+368,Master's,Low
+369,PhD,Low
+370,Master's,Low
+371,Bachelor's,Medium
+372,Master's,Low
+373,PhD,High
+374,Bachelor's,High
+375,Bachelor's,Low
+376,PhD,Medium
+377,Master's,Medium
+378,Bachelor's,High
+379,High School,Low
+380,Master's,Medium
+381,PhD,High
+382,Master's,High
+383,Master's,Medium
+384,Bachelor's,Low
+385,Master's,Medium
+386,Master's,Medium
+387,Master's,Low
+388,Bachelor's,High
+389,High School,High
+390,PhD,Low
+391,High School,High
+392,High School,High
+393,High School,Low
+394,PhD,Medium
+395,PhD,Medium
+396,Master's,High
+397,Bachelor's,High
+398,Master's,Medium
+399,High School,High
+400,High School,Low
+401,High School,Low
+402,PhD,Medium
+403,PhD,High
+404,PhD,Medium
+405,Bachelor's,Low
+406,High School,Low
+407,High School,High
+408,PhD,Low
+409,Bachelor's,High
+410,High School,High
+411,Master's,Low
+412,Master's,High
+413,PhD,Low
+414,Bachelor's,High
+415,Master's,High
+416,Master's,High
+417,Master's,Medium
+418,PhD,Low
+419,Bachelor's,Low
+420,PhD,Medium
+421,Master's,High
+422,Master's,High
+423,Bachelor's,Low
+424,High School,Low
+425,Bachelor's,Low
+426,Master's,Low
+427,Master's,Medium
+428,Bachelor's,Medium
+429,Master's,Low
+430,Bachelor's,High
+431,High School,Low
+432,PhD,Medium
+433,Master's,Low
+434,Master's,Low
+435,PhD,Low
+436,PhD,Low
+437,Bachelor's,Medium
+438,Master's,Low
+439,High School,High
+440,Bachelor's,High
+441,High School,High
+442,Bachelor's,High
+443,Master's,Low
+444,Master's,Medium
+445,Master's,Medium
+446,PhD,Low
+447,High School,Medium
+448,Bachelor's,Low
+449,PhD,High
+450,High School,High
+451,PhD,Medium
+452,PhD,Low
+453,High School,Medium
+454,Bachelor's,High
+455,PhD,High
+456,PhD,High
+457,Master's,High
+458,Master's,Low
+459,High School,Low
+460,Bachelor's,Medium
+461,Master's,High
+462,PhD,High
+463,PhD,Medium
+464,High School,Low
+465,Bachelor's,Medium
+466,High School,Medium
+467,Bachelor's,Low
+468,Master's,Low
+469,PhD,Low
+470,PhD,High
+471,PhD,Medium
+472,PhD,Low
+473,Bachelor's,Low
+474,High School,Medium
+475,High School,Medium
+476,High School,Low
+477,Master's,Low
+478,High School,High
+479,Master's,Low
+480,High School,Medium
+481,PhD,Low
+482,Bachelor's,Medium
+483,Master's,Low
+484,PhD,High
+485,Master's,Low
+486,Bachelor's,Medium
+487,Master's,Medium
+488,Master's,High
+489,PhD,Low
+490,PhD,Low
+491,PhD,Low
+492,PhD,High
+493,Bachelor's,Medium
+494,Master's,Medium
+495,Master's,High
+496,High School,Low
+497,High School,High
+498,Master's,High
+499,PhD,Medium
+500,Bachelor's,Medium
+501,Master's,Medium
+502,Master's,High
+503,PhD,Medium
+504,Master's,Low
+505,PhD,Low
+506,High School,Low
+507,High School,Medium
+508,Bachelor's,High
+509,Master's,High
+510,PhD,High
+511,PhD,Medium
+512,PhD,Low
+513,Bachelor's,High
+514,Bachelor's,High
+515,Bachelor's,Low
+516,Bachelor's,Low
+517,High School,High
+518,Master's,Medium
+519,PhD,Medium
+520,High School,Medium
+521,PhD,High
+522,PhD,Low
+523,High School,High
+524,Master's,High
+525,Master's,Medium
+526,PhD,High
+527,Bachelor's,Low
+528,Master's,Medium
+529,Bachelor's,High
+530,High School,Medium
+531,Bachelor's,High
+532,PhD,Medium
+533,PhD,High
+534,Master's,Low
+535,Master's,Low
+536,Master's,High
+537,PhD,Low
+538,Bachelor's,Low
+539,Bachelor's,Medium
+540,Master's,Medium
+541,PhD,Medium
+542,PhD,Low
+543,High School,Low
+544,Master's,High
+545,Master's,Low
+546,High School,Medium
+547,PhD,High
+548,Bachelor's,Low
+549,PhD,High
+550,High School,High
+551,High School,High
+552,Master's,High
+553,High School,Low
+554,Bachelor's,Low
+555,Bachelor's,Medium
+556,PhD,Medium
+557,Master's,High
+558,High School,Medium
+559,Master's,Low
+560,Bachelor's,Medium
+561,Master's,Low
+562,PhD,High
+563,PhD,High
+564,Bachelor's,Medium
+565,High School,High
+566,PhD,High
+567,PhD,High
+568,PhD,Medium
+569,PhD,High
+570,Bachelor's,High
+571,Bachelor's,High
+572,High School,High
+573,Bachelor's,High
+574,PhD,Low
+575,High School,Medium
+576,PhD,Medium
+577,Bachelor's,Medium
+578,PhD,High
+579,Bachelor's,Medium
+580,PhD,High
+581,Master's,Medium
+582,Master's,High
+583,Master's,Low
+584,PhD,Medium
+585,Bachelor's,Medium
+586,PhD,High
+587,Bachelor's,Low
+588,Bachelor's,Low
+589,Bachelor's,Low
+590,PhD,Low
+591,Master's,Medium
+592,Master's,High
+593,PhD,Medium
+594,PhD,Low
+595,PhD,Medium
+596,High School,Low
+597,High School,Low
+598,PhD,Medium
+599,Master's,High
+600,Master's,Low
+601,Master's,Low
+602,High School,Low
+603,Bachelor's,Low
+604,PhD,Low
+605,PhD,Medium
+606,PhD,Medium
+607,Bachelor's,Medium
+608,Bachelor's,Medium
+609,PhD,Low
+610,Bachelor's,Medium
+611,Master's,Medium
+612,Bachelor's,Low
+613,Master's,High
+614,PhD,Medium
+615,Bachelor's,Medium
+616,Bachelor's,Medium
+617,Master's,Medium
+618,Bachelor's,Medium
+619,Master's,Low
+620,PhD,High
+621,Bachelor's,Low
+622,High School,Medium
+623,Bachelor's,Medium
+624,PhD,Medium
+625,High School,Medium
+626,Master's,High
+627,PhD,Medium
+628,PhD,Medium
+629,High School,High
+630,Master's,High
+631,Bachelor's,Low
+632,High School,High
+633,Bachelor's,Medium
+634,Bachelor's,High
+635,Master's,High
+636,Master's,Medium
+637,High School,Medium
+638,Master's,Medium
+639,Bachelor's,Medium
+640,Master's,Low
+641,Bachelor's,Medium
+642,Bachelor's,Medium
+643,High School,High
+644,High School,Low
+645,High School,Low
+646,High School,High
+647,Bachelor's,Medium
+648,High School,Low
+649,Master's,Low
+650,Bachelor's,Medium
+651,High School,Low
+652,Master's,High
+653,PhD,Low
+654,High School,Low
+655,High School,High
+656,Bachelor's,Low
+657,Bachelor's,High
+658,High School,Medium
+659,PhD,High
+660,Bachelor's,Low
+661,PhD,High
+662,PhD,Medium
+663,High School,Medium
+664,Bachelor's,Low
+665,Master's,Low
+666,Master's,High
+667,Master's,Medium
+668,Master's,High
+669,Bachelor's,Low
+670,High School,Low
+671,High School,High
+672,Master's,Low
+673,High School,Low
+674,High School,High
+675,Master's,Medium
+676,Bachelor's,Low
+677,Master's,Low
+678,Bachelor's,Low
+679,High School,Low
+680,Master's,Low
+681,Master's,Medium
+682,Master's,High
+683,High School,Medium
+684,Bachelor's,Low
+685,Bachelor's,Medium
+686,PhD,Medium
+687,Bachelor's,Medium
+688,Master's,Low
+689,High School,Low
+690,Master's,Medium
+691,High School,Low
+692,PhD,Low
+693,High School,Low
+694,High School,Low
+695,Bachelor's,Medium
+696,Bachelor's,Low
+697,Bachelor's,Low
+698,Bachelor's,High
+699,Master's,Medium
+700,Bachelor's,Low
+701,Master's,Medium
+702,Bachelor's,Low
+703,PhD,High
+704,PhD,Medium
+705,Bachelor's,Medium
+706,High School,High
+707,Master's,Low
+708,High School,High
+709,Master's,Low
+710,PhD,Low
+711,High School,Low
+712,Bachelor's,Low
+713,Master's,Low
+714,PhD,High
+715,PhD,Low
+716,PhD,Medium
+717,PhD,Low
+718,PhD,Low
+719,High School,Low
+720,Master's,High
+721,High School,Medium
+722,Bachelor's,High
+723,Master's,Medium
+724,Master's,Low
+725,PhD,Medium
+726,Master's,Low
+727,Master's,Medium
+728,High School,High
+729,Bachelor's,High
+730,High School,Low
+731,Bachelor's,Low
+732,Master's,Medium
+733,High School,High
+734,Master's,Low
+735,PhD,Medium
+736,PhD,Medium
+737,PhD,Medium
+738,Bachelor's,High
+739,PhD,Medium
+740,Master's,Low
+741,High School,High
+742,High School,Medium
+743,PhD,High
+744,Bachelor's,Medium
+745,PhD,High
+746,Master's,Low
+747,High School,High
+748,High School,High
+749,Bachelor's,High
+750,Bachelor's,High
+751,Bachelor's,Low
+752,High School,Low
+753,PhD,High
+754,Bachelor's,High
+755,Bachelor's,Low
+756,High School,Low
+757,Master's,High
+758,Master's,High
+759,Bachelor's,Medium
+760,High School,Medium
+761,Master's,Medium
+762,PhD,High
+763,Master's,High
+764,Bachelor's,High
+765,High School,Medium
+766,PhD,Low
+767,PhD,Low
+768,PhD,High
+769,High School,Low
+770,High School,Medium
+771,Bachelor's,Low
+772,Master's,Low
+773,Master's,Medium
+774,Bachelor's,High
+775,Bachelor's,Medium
+776,Master's,High
+777,Bachelor's,Low
+778,PhD,Low
+779,Bachelor's,Low
+780,Bachelor's,Low
+781,Master's,High
+782,Master's,High
+783,Bachelor's,High
+784,High School,High
+785,PhD,Medium
+786,High School,Low
+787,Master's,High
+788,Bachelor's,Medium
+789,PhD,Medium
+790,Master's,Low
+791,Master's,Medium
+792,Master's,Medium
+793,High School,Low
+794,PhD,Low
+795,Bachelor's,High
+796,Master's,Medium
+797,Bachelor's,High
+798,PhD,Low
+799,High School,Low
+800,Master's,Low
+801,Master's,Medium
+802,Master's,Medium
+803,PhD,Medium
+804,PhD,Medium
+805,High School,Medium
+806,Bachelor's,Medium
+807,PhD,High
+808,Master's,Low
+809,High School,Medium
+810,Master's,High
+811,PhD,Low
+812,Master's,High
+813,Master's,High
+814,Master's,Low
+815,Bachelor's,Low
+816,PhD,High
+817,Master's,Low
+818,PhD,Low
+819,Master's,Medium
+820,PhD,Medium
+821,PhD,High
+822,High School,High
+823,Bachelor's,Medium
+824,Bachelor's,Medium
+825,PhD,Low
+826,Master's,Medium
+827,Master's,Low
+828,Bachelor's,Low
+829,Bachelor's,High
+830,High School,High
+831,Master's,Medium
+832,Bachelor's,Low
+833,Bachelor's,High
+834,High School,Medium
+835,PhD,High
+836,Bachelor's,High
+837,High School,Medium
+838,Master's,High
+839,Bachelor's,Medium
+840,Master's,Medium
+841,Master's,Medium
+842,Bachelor's,Low
+843,PhD,High
+844,Master's,Low
+845,PhD,Low
+846,Bachelor's,Low
+847,High School,High
+848,Master's,Medium
+849,Master's,Low
+850,PhD,Medium
+851,Bachelor's,High
+852,High School,High
+853,Bachelor's,Medium
+854,PhD,Low
+855,High School,Medium
+856,PhD,High
+857,Bachelor's,Medium
+858,High School,Low
+859,PhD,Low
+860,Bachelor's,Medium
+861,PhD,High
+862,High School,Medium
+863,High School,High
+864,High School,Low
+865,High School,High
+866,High School,Medium
+867,PhD,High
+868,PhD,Medium
+869,Master's,High
+870,PhD,Low
+871,PhD,High
+872,Master's,Low
+873,High School,Low
+874,Master's,Low
+875,High School,Low
+876,High School,Low
+877,PhD,Low
+878,Bachelor's,Medium
+879,High School,Low
+880,High School,Low
+881,Bachelor's,High
+882,Master's,High
+883,PhD,High
+884,High School,High
+885,High School,Medium
+886,Master's,Low
+887,PhD,Low
+888,Bachelor's,High
+889,High School,High
+890,High School,Medium
+891,PhD,High
+892,PhD,Medium
+893,PhD,Medium
+894,PhD,Medium
+895,Bachelor's,High
+896,Bachelor's,Low
+897,PhD,High
+898,Master's,Low
+899,Master's,Low
+900,Bachelor's,High
+901,PhD,High
+902,High School,High
+903,PhD,High
+904,Master's,Medium
+905,PhD,High
+906,Master's,Low
+907,PhD,Low
+908,High School,Low
+909,Bachelor's,Medium
+910,Master's,Medium
+911,PhD,Low
+912,PhD,Low
+913,Bachelor's,Medium
+914,Bachelor's,Low
+915,High School,Medium
+916,Master's,Medium
+917,PhD,Medium
+918,PhD,Low
+919,Master's,High
+920,PhD,High
+921,PhD,Low
+922,Bachelor's,High
+923,PhD,Low
+924,Master's,High
+925,High School,Low
+926,Master's,Medium
+927,PhD,High
+928,Bachelor's,Low
+929,PhD,Medium
+930,Bachelor's,High
+931,High School,Low
+932,PhD,Medium
+933,PhD,Medium
+934,Bachelor's,High
+935,Bachelor's,Medium
+936,High School,High
+937,High School,Low
+938,PhD,Low
+939,PhD,High
+940,Master's,Low
+941,Master's,Low
+942,Master's,Medium
+943,PhD,Low
+944,Bachelor's,Low
+945,High School,Low
+946,High School,Low
+947,Master's,High
+948,PhD,Medium
+949,Bachelor's,Low
+950,PhD,Medium
+951,PhD,Low
+952,Master's,Low
+953,Master's,Low
+954,PhD,High
+955,High School,Low
+956,High School,Medium
+957,PhD,High
+958,High School,Low
+959,PhD,Low
+960,Bachelor's,High
+961,High School,High
+962,PhD,High
+963,High School,High
+964,Master's,Low
+965,Bachelor's,Low
+966,Master's,High
+967,Master's,High
+968,Master's,High
+969,PhD,Low
+970,Bachelor's,High
+971,Master's,High
+972,PhD,Low
+973,Master's,Low
+974,Master's,Medium
+975,PhD,Low
+976,Bachelor's,Low
+977,High School,Low
+978,Bachelor's,Medium
+979,Bachelor's,High
+980,PhD,Low
+981,PhD,Low
+982,PhD,Medium
+983,High School,High
+984,High School,Low
+985,PhD,Low
+986,Bachelor's,High
+987,Bachelor's,High
+988,Bachelor's,Medium
+989,PhD,Low
+990,Master's,Low
+991,Bachelor's,Low
+992,Bachelor's,High
+993,Bachelor's,Low
+994,Bachelor's,High
+995,Master's,Medium
+996,Bachelor's,Low
+997,Master's,High
+998,High School,Low
+999,Bachelor's,Medium
