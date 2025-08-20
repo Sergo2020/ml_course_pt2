@@ -23,34 +23,36 @@ def test_tukey(df):
     res1 = mc1.tukeyhsd()
     print(res1.summary())
 
-balanced_data = pd.read_csv('balanced_data.csv')
-unbalanced_data = pd.read_csv('unbalanced_data.csv')
 
-# p_val1 = test_anova(balanced_data)
-# print_results(p_val1)
-#
-# p_val2 = test_anova(unbalanced_data)
-# print_results(p_val2)
+if __name__ == '__main__':
+    balanced_data = pd.read_csv('balanced_data.csv')
+    unbalanced_data = pd.read_csv('unbalanced_data.csv')
 
-balanced_spe_data = balanced_data.copy()
-balanced_spe_data.loc[balanced_spe_data['Study_Method'] == 'ChatGPT', 'Test_Score'] = balanced_spe_data[balanced_spe_data['Study_Method'] == 'ChatGPT']['Test_Score'] - 20
+    # p_val1 = test_anova(balanced_data)
+    # print_results(p_val1)
+    #
+    # p_val2 = test_anova(unbalanced_data)
+    # print_results(p_val2)
 
-unbalanced_spe_data = unbalanced_data.copy()
-unbalanced_spe_data.loc[unbalanced_spe_data['Study_Method'] == 'ChatGPT', 'Test_Score'] = unbalanced_spe_data[unbalanced_spe_data['Study_Method'] == 'ChatGPT']['Test_Score'] - 20
+    balanced_spe_data = balanced_data.copy()
+    balanced_spe_data.loc[balanced_spe_data['Study_Method'] == 'ChatGPT', 'Test_Score'] = balanced_spe_data[balanced_spe_data['Study_Method'] == 'ChatGPT']['Test_Score'] - 20
 
-draw_data(balanced_spe_data, ["ChatGPT", "Self-Study", "Tutoring", "Group Study"], Path('balanced_spe_data.png'))
-draw_data(unbalanced_spe_data, ["ChatGPT", "Self-Study", "Tutoring", "Group Study"], Path('unbalanced_spe_data.png'))
+    unbalanced_spe_data = unbalanced_data.copy()
+    unbalanced_spe_data.loc[unbalanced_spe_data['Study_Method'] == 'ChatGPT', 'Test_Score'] = unbalanced_spe_data[unbalanced_spe_data['Study_Method'] == 'ChatGPT']['Test_Score'] - 20
 
-p_val3 = test_anova(balanced_spe_data)
-print_results(p_val3)
+    draw_data(balanced_spe_data, ["ChatGPT", "Self-Study", "Tutoring", "Group Study"], Path('balanced_spe_data.png'))
+    draw_data(unbalanced_spe_data, ["ChatGPT", "Self-Study", "Tutoring", "Group Study"], Path('unbalanced_spe_data.png'))
 
-p_val4 = test_anova(unbalanced_spe_data)
-print_results(p_val4)
+    p_val3 = test_anova(balanced_spe_data)
+    print_results(p_val3)
 
-test_tukey(balanced_data)
-test_tukey(unbalanced_data)
-test_tukey(balanced_spe_data)
-test_tukey(unbalanced_spe_data)
+    p_val4 = test_anova(unbalanced_spe_data)
+    print_results(p_val4)
+
+    test_tukey(balanced_data)
+    test_tukey(unbalanced_data)
+    test_tukey(balanced_spe_data)
+    test_tukey(unbalanced_spe_data)
 
 
 
